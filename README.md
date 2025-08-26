@@ -35,6 +35,6 @@
 <br />
 <div>
 <img src="https://s11.gifyu.com/images/SG3Fp.gif" alt="Coding Mario" width="350" />  
-<img  width="182" alt="avatar" src="https://github.com/user-attachments/assets/5bb441c3-2780-4c36-83f8-a99e100be995" />
+<img  width="181" alt="avatar" src="https://github.com/user-attachments/assets/5bb441c3-2780-4c36-83f8-a99e100be995" />
 
 </div>
