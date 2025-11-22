@@ -27,7 +27,7 @@
 
 ### 🥠 let’s be hermanos!
 
-<a href="https://linkedin.com/in/ojuss" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="ojuss"  /></a>&nbsp;
+<a href="https://linkedin.com/in/ojusxe" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="ojuss"  /></a>&nbsp;
 <a href="https://instagram.com/ojusw" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" alt="ojusgup"  /></a>&nbsp;
 <a href="https://www.leetcode.com/ojuss" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" alt="ojuss" height="36" width="36" /></a>&nbsp;
 <a href="https://discord.gg/https://discord.gg/gprZUGqVSR" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg"/></a>
