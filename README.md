@@ -34,7 +34,7 @@
 
 <br />
 <div>
-<img src="https://s11.gifyu.com/images/SG3Fp.gif" alt="Coding Mario" width="350" />  
+<img src="https://github.com/user-attachments/assets/00cebd73-914c-4ce4-b2e1-95cede15bc37" alt="Coding Mario" width="350" /> 
 <img height="181" alt="13" src="https://github.com/user-attachments/assets/3cb16314-bc34-42b1-ad09-9e10e59c9627" />
 
 
