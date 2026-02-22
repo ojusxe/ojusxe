@@ -3,7 +3,7 @@
   
 ### Ciao! I'm Ojus 
   
-- 🚀 I’m currently working as Frontend Design Engineer at [Clueso](https://clueso.io)
+- 🚀 I’m currently working as Frontend/Design Engineer at [Clueso](https://clueso.io)
 - 🥏 Also the co author of [Collabdoor](https://github.com/collabdoor) and [Pageo](https://pageo.me)
 - 🌱 Reach me out on my e-mail ojusxe@gmail.com
 - 📫 I'm currently learning/working with Next.js, Electron & GoFiber
