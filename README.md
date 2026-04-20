@@ -1,7 +1,7 @@
 <div>
-
+<img width="200" height="100" alt="hello" src="https://github.com/user-attachments/assets/895d505c-d319-4d0a-9a4a-5f4155c9e9cf" />
   
-### Ciao! I'm Ojus 
+### I'm Ojus 
   
 - 🚀 I’m currently working as Full stack engineer at [OtelAI](https://otelai.com)
 - 🥏 Also the co author of [Collabdoor](https://github.com/collabdoor) and [Pageo](https://pageo.me)
