@@ -6,7 +6,7 @@
 - 🚀 I’m currently working as Full stack engineer at [OtelAI](https://otelai.com)
 - 🥏 Also the co author of [Collabdoor](https://github.com/collabdoor) and [Pageo](https://pageo.me)
 - 🌱 Reach me out on my e-mail ojusxe@gmail.com
-- 📫 I'm currently learning/working system design with Next.js, FastAPI (python) & AWS
+- 📫 I'm currently learning system design by working with Next.js, FastAPI & AWS
 - ☁️ Ask me about the weather or your fav tech-stack
 </div>
 
