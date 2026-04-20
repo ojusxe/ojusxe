@@ -3,10 +3,10 @@
   
 ### Ciao! I'm Ojus 
   
-- 🚀 I’m currently working as Frontend/Design Engineer at [Clueso](https://clueso.io)
+- 🚀 I’m currently working as Full stack engineer at [OtelAI](https://otelai.com)
 - 🥏 Also the co author of [Collabdoor](https://github.com/collabdoor) and [Pageo](https://pageo.me)
 - 🌱 Reach me out on my e-mail ojusxe@gmail.com
-- 📫 I'm currently learning/working with Next.js, Electron & GoFiber
+- 📫 I'm currently learning/working system design with Next.js, FastAPI (python) & AWS
 - ☁️ Ask me about the weather or your fav tech-stack
 </div>
 
