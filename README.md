@@ -3,7 +3,7 @@
 
 ### I'm Ojus 
   
-- 🚀 I’m currently working as Full stack engineer at [OtelAI](https://otelai.com)
+- 🚀 I’m currently working as full stack engineer at [OtelAI](https://otelai.com)
 - 🥏 Also the co author of [Collabdoor](https://github.com/collabdoor) and [Pageo](https://pageo.me)
 - 🌱 Reach me out on my e-mail ojusxe@gmail.com
 - 📫 I'm currently learning system design by working with Next.js, FastAPI & AWS
