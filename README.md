@@ -29,7 +29,7 @@
 
 ### 🥠 let’s be hermanos!
 
-<a href="https://pageo.me/ojus" target="blank"><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/b36da310-3000-49c3-8ae2-7f256a021fc8" />
+<a href="https://pageo.me/ojus" target="blank"><img alt="image" src="https://github.com/user-attachments/assets/b36da310-3000-49c3-8ae2-7f256a021fc8" />
 </a>&nbsp;
 
 <br />
